@@ -13,3 +13,7 @@ Economista enfocado en operaciones y con alta desviacion a Sistemas de Informaci
 - [Github](https://github.com/jcramossur)
 
 ## Mis notas de lectura:
+
+
+[Ir al Mindset](./mindset.md)
+
