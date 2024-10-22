@@ -16,4 +16,4 @@
 
 ##### 3.	¿Qué comando usarías en la terminal para listar todos los archivos, incluidos los archivos ocultos, en un directorio de Linux o macOS? Explica qué significan los parámetros utilizados en el comando.
 
-ls -R -a, 
+ls -a, lista los archivos y directorios incluyendo los archivos ocultos. 
